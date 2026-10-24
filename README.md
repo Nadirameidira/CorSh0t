@@ -1,2 +1,2 @@
 # CorSh0t
-Website company menggunakan React 
+Website company menggunakan NextJS
